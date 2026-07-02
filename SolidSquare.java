@@ -7,7 +7,7 @@
         *****
  */
 
-public class Pattern1 {
+public class StarSquare {
     public static void main(String[] args) {
         for(int row=1;row<=5;row++){
             for(int col=1;col<=5;col++){
