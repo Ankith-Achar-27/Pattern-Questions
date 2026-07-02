@@ -1,4 +1,4 @@
-public class Pattern12 {
+public class SolidHourGlass {
     public static void main(String[] args) {
         int num = 10;
         for(int row=1;row<=num/2;row++){

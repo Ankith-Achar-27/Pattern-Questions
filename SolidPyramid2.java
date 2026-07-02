@@ -7,7 +7,7 @@
      * * * * *
 
 */
-public class Pattern10 {
+public class SolidPyramid2 {
     public static void main(String[] args) {
         int num=5;
 

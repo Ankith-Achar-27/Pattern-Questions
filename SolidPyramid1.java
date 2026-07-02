@@ -8,7 +8,7 @@
 
 */
 
-public class Pattern8 {
+public class SolidPyramid1 {
     public static void main(String[] args) {
         for (int row=1;row<=5;row++){
             //add spaces

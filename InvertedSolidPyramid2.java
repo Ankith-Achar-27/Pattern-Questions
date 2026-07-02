@@ -1,4 +1,4 @@
-public class Pattern11 {
+public class InvertedSolidPyramid2 {
     public static void main(String[] args) {
         int num=5;
 

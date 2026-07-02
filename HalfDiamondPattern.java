@@ -11,7 +11,7 @@
         *
 */
 
-public class Pattern5 {
+public class HalfDiamondPattern {
     public static void main(String[] args) {
         for (int row = 1; row <= 9; row++) {
 
